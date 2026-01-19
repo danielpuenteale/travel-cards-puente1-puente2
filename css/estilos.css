@@ -67,3 +67,11 @@ body {
     margin-left: 620px;
     width: 200px;
 }
+
+.imagen1_3 {
+  background-image: url(../images/thumb5.png);
+  background-size: cover;
+  background-position: center;
+  width: 1440px;
+  height: 1024px;
+}
