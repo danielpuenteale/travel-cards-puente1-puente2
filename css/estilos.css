@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.imagen {
+  background-image: url(../images/thumb1.png);
+  background-size: cover;
+  background-position: center;
+  width: 1440px;
+  height: 1024px;
+}
+.colorletra {
+  color: white;
+}
+.todo {
+  width: 506.6477359147211;
+  height: 328.27735470072184;
+  opacity: 1;
+  top: -639px;
+  left: 6476px;
+  border-radius: 4.74px;
+}
+
+.plarga{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
