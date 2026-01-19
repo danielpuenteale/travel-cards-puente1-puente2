@@ -13,16 +13,57 @@ body {
   color: white;
 }
 .todo {
-  width: 506.6477359147211;
-  height: 328.27735470072184;
   opacity: 1;
   top: -639px;
   left: 6476px;
   border-radius: 4.74px;
+  background-size: cover;
 }
 
-.plarga{
+.plarga {
+  display: flex;
+  justify-content: center;
+  font-size: 51px;
+}
+.h1letra {
+  margin-left: 150px;
+  margin-top: 150px;
+}
+.p1letra {
+  margin-left: 150px;
+  font-size: 20px;
+}
+.imagen2 {
+  margin-left: 150px;
+  margin-top: 200px;
+  width: 400px;
+}
+.margen {
+  margin-top: 100px;
+}
+
+.imagen1_2 {
+  background-image: url(../images/thumb3.png);
+  background-size: cover;
+  background-position: center;
+  width: 1440px;
+  height: 1024px;
+}
+.h1_2 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 200px;
+}
+.p1_2 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+}
+
+.imagen1_22{
     display: flex;
-    justify-content: center;
-    font-size: 50px;
+    margin-left: 620px;
+    width: 200px;
 }
